@@ -7,6 +7,12 @@ matrix:
     - os: linux
       jdk: openjdk11
     - os: linux
+      arch: ppc64le
+      jdk: openjdk8
+    - os: linux
+      arch: ppc64le
+      jdk: openjdk11
+    - os: linux
       arch: arm64
       jdk: openjdk11
     - os: linux
